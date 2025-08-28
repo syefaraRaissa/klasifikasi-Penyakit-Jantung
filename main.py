@@ -4,7 +4,7 @@ import joblib
 
 # Load model & scaler
 model = joblib.load("model_rf.pkl")
-scaler = joblib.load("scaler.pkl")
+scaler = joblib.load("scalerrf.pkl")
 
 st.title("🫀 Diagnosa Penyakit Jantung")
 
