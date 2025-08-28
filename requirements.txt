@@ -1,0 +1,8 @@
+streamlit
+tensorflow>=2.12,<2.19
+scikit-learn
+pandas
+numpy
+matplotlib
+keras-tcn
+joblib
